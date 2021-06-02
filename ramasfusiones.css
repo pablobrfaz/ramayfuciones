@@ -1,7 +1,24 @@
-.Titulo{
-    color: white;
+.CuerpoPag{
+    padding: 10px;
+    background-color: black;
+    height: 600px;
+    width: 635px;
 }
 
 .cuerpo{
-    display: inline;
+    display: inline-block;
+}
+
+#cabtit{
+    color:white;
+    width: 635px;
+}
+
+#img1, #img2, #img3, #img4 {
+    border: 3.5px gray solid; 
+}
+
+#img2{
+    width: 299px;
+    height: 201px;
 }
